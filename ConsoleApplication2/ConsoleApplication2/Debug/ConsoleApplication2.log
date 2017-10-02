@@ -1,4 +1,0 @@
-﻿  moni1.cpp
-d:\consoleapplication1\consoleapplication2\consoleapplication2\moni1.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
-  ConsoleApplication2.vcxproj -> D:\ConsoleApplication1\ConsoleApplication2\Debug\ConsoleApplication2.exe
-  ConsoleApplication2.vcxproj -> D:\ConsoleApplication1\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
